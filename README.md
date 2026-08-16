@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Rayanazani160)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Rayanazani160&hide_progress=true&langs_count=5&hide_values=true&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Rayanazani160&hide_progress=true&langs_count=5&hide_values=true&theme=github_dark)
